@@ -1,0 +1,1 @@
+let bod = document.imagesfor (let i = 0; i < bod.length; i++){    if (document.images[i].hasAttribute("alt") === true)    {        document.images[i].alt = "Old"    }    else    {        document.images[i].setAttribute("alt", "Elzero New")    }}// document.images[0].setAttribute("alt" , "Old")

@@ -1,0 +1,1 @@
+const t0 = performance.now();for (let i = 0; i < 10000 ; i++) {    console.log(i);}const t1 = performance.now();console.log(`Loop Took ${t1 - t0} Milliseconds.`);

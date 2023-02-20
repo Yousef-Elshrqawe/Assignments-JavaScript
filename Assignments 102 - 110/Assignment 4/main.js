@@ -1,0 +1,1 @@
+let myDiv = document.querySelector("div");let span = document.querySelector(" span");let counter = setInterval(function () {    myDiv.innerHTML -= 1;    span.innerHTML -= 1;    if (myDiv.innerHTML === "0" || span.innerHTML === "0") {        location.href = "https://elzero.org";    }}, 1500);

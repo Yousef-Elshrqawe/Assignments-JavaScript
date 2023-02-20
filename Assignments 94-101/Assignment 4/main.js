@@ -1,0 +1,1 @@
+console.log(document.body.children[0].lastChild.textContent.trim());

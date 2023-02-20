@@ -1,0 +1,8 @@
+
+[
+  {"id" : 1, "title" : "Title 1", "body" : "Article Number 1 Body", "category" : "football",           "author" : "YOUSEF"},
+  {"id" : 2, "title" : "Title 2", "body" : "Article Number 2 Body", "category" : "War news",           "author" :"Mahmoud"},
+  {"id" : 3, "title" : "Title 3", "body" : "Article Number 3 Body", "category" : "nutrition",          "author" : "Osama"},
+  {"id" : 4, "title" : "Title 4", "body" : "Article Number 4 Body", "category" : "temperature degree", "author" : "Sayed"},
+  {"id" : 5, "title" : "Title 5", "body" : "Article Number 5 Body", "category" : "ِArt gallery",        "author" :"Ahmed"}
+]

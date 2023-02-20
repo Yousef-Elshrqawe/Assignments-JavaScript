@@ -1,0 +1,1 @@
+/*let dateTime = new Date(1980, 1, 1, 0, 0, 1, 0);console.log(dateTime);*/let dateNew = new Date();dateNew.setTime(0);dateNew.setFullYear(1980);dateNew.setSeconds(1);dateNew.setHours(0);console.log(dateNew);

@@ -1,0 +1,1 @@
+let st = "Elzero web School";if (st.substr(st.indexOf("W"), 1).toLowerCase() === "w" || st.substr(st.indexOf("w"), 1) === "w") {    console.log("Good");}if (!typeof st !== "string") {    console.log("Good");}if (typeof st === typeof "number") {    console.log("Good");}if (st.substr(0 , 6).repeat(2) === "ElzeroElzero") {    console.log("Good");}

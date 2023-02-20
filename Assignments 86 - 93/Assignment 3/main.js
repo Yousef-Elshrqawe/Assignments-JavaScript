@@ -1,0 +1,1 @@
+let myNumber = document.querySelector("input");let di = document.querySelector(".result")myNumber.onkeyup = function () {    di.innerHTML = `${myNumber.value} USD Dollar = ${(myNumber.value * 15.6).toFixed(2)} Egyptian Pound`};

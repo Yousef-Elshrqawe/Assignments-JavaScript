@@ -1,0 +1,1 @@
+let re = /https?:\/\/(?:[-\w]+\.)?([-\w]+)\.\w+(?:\.\w+)?\/?.*/i;// 1 - https? returns https or http // https؟ إرجاع https أو http// 2 - :\/\/ returns ://// 3 - (?:[-\w]+\.)? returns ?:-letters. else move on// 4 - ([-\w]+)\.\w returns -letters.letters// 5 - (?:\.\w+)? if there ?:/letters else move on// 6 - \/?.* if there or no / and ... or more

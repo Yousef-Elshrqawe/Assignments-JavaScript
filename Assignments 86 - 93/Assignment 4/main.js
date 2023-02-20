@@ -1,0 +1,1 @@
+let divOne = document.querySelector(".one");let divTwo = document.querySelector(".two");let titleDivOne = divOne.title;let titleDivTwo = divTwo.title;let textDivOne = divOne.innerHTML;let textDivTwo = divTwo.innerHTML;divOne.title = titleDivTwo;divTwo.title = titleDivOne;divOne.innerHTML=textDivTwo;divTwo.innerHTML=`${textDivOne} ${divOne.attributes.length}`;

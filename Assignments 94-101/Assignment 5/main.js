@@ -1,0 +1,1 @@
+document.addEventListener("click",function(e){    console.log(`This Is ${e.target.tagName}`);})// console.log(document.body.children[1].nodeName);

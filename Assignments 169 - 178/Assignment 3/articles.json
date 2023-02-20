@@ -1,0 +1,8 @@
+
+[
+  {"id" : "1", "title" : "John Doe", "body" : "sport", "category" : "football", "author" : "match between two team"},
+  {"id" : "2", "title" : "John", "body" : "Policy", "category" : "War news", "author" :"russian ukrainina war"},
+  {"id" : "3", "title" : "sam", "body" : "life style", "category" : "nutrition", "author" : "healthy nutrition"},
+  {"id" : "4", "title" : "sara", "body" : "Weather", "category" : "temperature degree", "author" : "increase temperature degree"},
+  {"id" : "5", "title" : "yousef", "body" : "artist", "category" : "ِArt gallery", "author" :"Art gallery starting will soon"}
+]
